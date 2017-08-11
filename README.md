@@ -1,6 +1,6 @@
 # Reference Guides
 
-![image](msreferenceguides.png)
+![](msreferenceguides.png)
 
 Follow the links bellow to acess these study guides that can help you to be better prepared for Microsoft Exams. If you pass on all this three exams you will earn the certification [MCSE Cloud Platform and Infrastructure](https://www.microsoft.com/en-us/learning/mcse-cloud-platform-infrastructure.aspx).
 
