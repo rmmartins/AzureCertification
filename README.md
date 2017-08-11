@@ -9,3 +9,11 @@ Bellow the links for each one:
 1. [70-532 (Development)](70-532.md)
 1. [70-533 (Infrastructure)](70-533.md)
 1. [70-534 (Architecture)](70-534.md)
+
+Feel free to share!
+
+Contact: 
+
+* [Twitter](http://twitter.com/ricardommartins)
+* [Linkedin](http://br.linkedin.com/in/rmmartins)
+* [Blog](http://www.ricardomartins.com.br)
