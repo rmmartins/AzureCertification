@@ -14,8 +14,8 @@ Feel free to share!
 
 # Other links
 
-1. [Azure Readiness: A curated list of resources about Azure](https://github.com/rmmartins/AzureReadiness)
-1. [Azure Technical Enablement: Some topics about Azure certifications, where to find study resources and how to be updated with Azure technologies - Only in PT-BR](http://aka.ms/capacitacaoazure)
+1. [Azure Readiness](https://github.com/rmmartins/AzureReadiness): A curated list of resources about Azure
+1. [Azure Technical Enablement](http://aka.ms/capacitacaoazure): Some topics about Azure certifications, where to find study resources and how to be updated with Azure technologies - Only in PT-BR
 
 Contact: 
 
