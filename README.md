@@ -1,5 +1,7 @@
 # Reference Guides
 
+![image](https://github.com/rmmartins/AzureCertification/blob/master/msreferenceguides.png)
+
 Follow the links bellow to acess these study guides that can help you to be better prepared for Microsoft Exams. If you pass on all this three exams you will earn the certification [MCSE Cloud Platform and Infrastructure](https://www.microsoft.com/en-us/learning/mcse-cloud-platform-infrastructure.aspx).
 
 They are composed by a list of topic according with the oficial list of measured skills, where you will see all sub-topics broken down with related links to each of them.
