@@ -10,7 +10,7 @@ They are composed by a list of topic according with the oficial list of measured
 
 Feel free to share!
 
-# Other references 
+# Other links
 
 1. [Azure Readiness: A curated list of resources about Azure](https://github.com/rmmartins/AzureReadiness)
 1. [Azure Technical Enablement: Some topics about Azure certifications, where to find study resources and how to be updated with Azure technologies - Only in PT-BR until now](http://aka.ms/capacitacaoazure)
